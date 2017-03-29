@@ -1,0 +1,3 @@
+[submodule "pycon8"]
+	path = pycon8
+	url = https://github.com/marco-buttu/pycon8
